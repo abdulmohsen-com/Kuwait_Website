@@ -1,0 +1,24 @@
+.Map{
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: #fcfffc;
+}
+.LanguageText{
+    display: flex;
+    justify-content: space-between;
+    color: #2D3A3A;
+    margin: 0px;
+}
+.WelcomeText{
+    display: flex;
+    justify-content: space-between;
+    color: #040F0F;
+    margin: 0px;
+}
+/* _______________________SlideShow_________________________________________ */
